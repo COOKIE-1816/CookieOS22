@@ -1,0 +1,6 @@
+Please confirm that this is your system
+else verification results will be invaild:
+    CookieOS Version:                 1.0.
+    CookieOS Edition:                 Full
+    CookieOS Architecture:    64-bit (x64)
+    CookieOS Interface lang.:   English UK

@@ -1,0 +1,7 @@
+Welcome to CookieOS Base GPG key verificator!
+This tool will compare SHA256 sums of present
+source files to file containing SHA256 keys of
+original files. This makes you sure Base
+source code was not modified by someone else.
+
+

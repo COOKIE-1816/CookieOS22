@@ -1,0 +1,5 @@
+{
+    "vram_file_size_limit":"[FSL]",
+    "vram_volume_usage_limit":"[VUL]",
+    "active": "[ACTIVE]"
+}

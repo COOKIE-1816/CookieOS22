@@ -1,0 +1,15 @@
+FSGEN.exe <LETTER> [size=<size>] [/v] [/f] [/r]
+FSGEN.exe is used to generated data filesystem.
+ LETTER         Specifies drive letter of device to
+                generate filesystem on. Use a colon.
+ size=<size>    Specifies filesystem size in megabytes.
+                Biggest possible size will be used if
+                this parameter is missing on command.
+ /v             Be verbose.
+ /f             Force filesystem creation.
+ /r             Reboot computer if operation was
+                successfully completed.
+EXAMPLES:
+    fsgen d:
+    fsgen e: size=4096 /r
+    fsgen d: size=4096

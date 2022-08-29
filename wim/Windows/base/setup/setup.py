@@ -1,0 +1,5 @@
+print("Welcome to CookieOS Setup! Please select what to do:")
+print("     (1)     Run setup (default).")
+print("     (2)     Just try CookieOS.")
+print("     (3)     Did not excepted this menu to appear.")
+a = input("Choice: ")

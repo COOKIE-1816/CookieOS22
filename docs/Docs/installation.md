@@ -1,0 +1,1 @@
+# CookieOS Installation process
